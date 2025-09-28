@@ -6,19 +6,11 @@ This repository contains materials for the Curs-AI course, which is available **
 ## About the Course
 
 Curs-AI is an exclusive reading and learning program designed to introduce students to the fundamentals and applications of Artificial Intelligence.  
-**This repository contains only materials to read:** lecture notes, articles, presentations, and other educational documents. There are no assignments, code projects, or interactive tasks in this repository.
-
+**This repository contains only materials to read:** lecture notes, presentations, and other educational documents. 
 ## Who Can Access?
 
 This course and its materials are **only available** to students who are part of the "Mihai Viteazul" AI Club.
 
-## Repository Structure
-
-- **/materials**  
-  All reading materials for the course are located in this folder. Browse through the files to find lecture notes,documents, and suggested readings.
-
-- **/resources**  
-  Additional documents and references for deepening your understanding of Artificial Intelligence.
 
 ## How to Use
 
